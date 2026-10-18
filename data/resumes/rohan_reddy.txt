@@ -1,0 +1,22 @@
+Rohan Reddy
+rohan.reddy@example.com | Kolkata, India
+
+PROFILE
+Backend engineer with 5 years of experience building APIs and data services in Python.
+
+CORE SKILLS
+Python, Django, Postgres, FastAPI, Celery
+
+PROFESSIONAL EXPERIENCE
+Backend Engineer, Orbit Retail (2024 - present)
+- Designed PostgreSQL schemas and cut slow query time by 60 percent.
+
+Senior Software Engineer, Cobalt Logistics (2021 - 2024)
+- Worked with product managers to plan quarterly releases.
+
+KEY PROJECTS
+- Contributed bug fixes to an open-source Celery library.
+- Built a personal budgeting app used by friends and family.
+
+EDUCATION
+M.Tech in Computer Science, University of Hyderabad, 2021

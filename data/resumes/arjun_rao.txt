@@ -1,0 +1,26 @@
+Arjun Rao
+arjun.rao@example.com | Noida, India
+
+SUMMARY
+Machine learning engineer with 5 years of experience taking models from notebook to production.
+
+SKILLS
+Python, PyTorch, ML, Pandas, FastAPI, Docker
+
+PROFESSIONAL EXPERIENCE
+Applied Scientist, Saffron Commerce (2023 - present)
+- Served models behind FastAPI endpoints with sub-100 ms latency.
+- Trained PyTorch models for product image classification with 94 percent accuracy.
+
+Machine Learning Engineer, Orbit Retail (2021 - 2023)
+- Reviewed pull requests and mentored two junior engineers.
+
+KEY PROJECTS
+- Contributed bug fixes to an open-source Machine Learning library.
+- Built a personal budgeting app used by friends and family.
+
+EDUCATION
+B.Tech in Computer Science, Osmania University, 2021
+
+CERTIFICATIONS
+AWS Certified Developer - Associate

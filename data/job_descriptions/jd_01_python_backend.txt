@@ -1,0 +1,7 @@
+Title: Senior Python Backend Engineer
+Must have: Python, Django
+Nice to have: PostgreSQL, Docker, AWS, Celery
+Minimum experience: 5 years
+
+About the role:
+We are looking for a backend engineer to build and scale the APIs behind our e-commerce platform. You will design database schemas, write Django services, own background job processing and help us move more workloads to the cloud.

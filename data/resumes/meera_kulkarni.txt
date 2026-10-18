@@ -1,0 +1,19 @@
+Meera Kulkarni
+meera.kulkarni@example.com | Hyderabad, India
+
+SUMMARY
+Backend engineer with 11 years of experience building APIs and data services in Python.
+
+CORE SKILLS
+Python, Django, PostgreSQL, AWS, Redis, Kafka
+
+EXPERIENCE
+Python Developer, FinEdge Systems (2017 - present)
+- Designed PostgreSQL schemas and cut slow query time by 60 percent.
+- Wrote Python services that consume events from Kafka topics.
+
+Senior Software Engineer, BluePeak Digital (2015 - 2017)
+- Worked with product managers to plan quarterly releases.
+
+ACADEMIC BACKGROUND
+B.Sc. in Mathematics, Anna University, 2015

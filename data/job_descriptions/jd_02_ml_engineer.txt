@@ -1,0 +1,7 @@
+Title: Machine Learning Engineer
+Must have: Python, PyTorch
+Nice to have: MLOps, NLP, Docker, TensorFlow
+Minimum experience: 3 years
+
+About the role:
+Join our applied AI team to train, deploy and monitor models in production. You will work on recommendation and text classification problems and build the pipelines that retrain models automatically.

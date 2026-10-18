@@ -1,0 +1,26 @@
+Rahul Kapoor
+rahul.kapoor@example.com | Noida, India
+
+PROFILE
+Frontend developer with 5 years of experience building fast, accessible web apps.
+
+CORE SKILLS
+React, TypeScript, JS, Next.js, Jest
+
+EXPERIENCE
+Frontend Engineer, Arcadia Payments (2024 - present)
+- Rebuilt the checkout flow in React and TypeScript, cutting load time by 40 percent.
+- Introduced component tests with Jest and raised coverage to 85 percent.
+
+Frontend Engineer, VisionStack (2022 - 2024)
+- Moved the marketing site to Next.js with server-side rendering.
+
+UI Developer, Helix Health Tech (2021 - 2022)
+- Reviewed pull requests and mentored two junior engineers.
+
+KEY PROJECTS
+- Contributed bug fixes to an open-source Next.js library.
+- Built a personal budgeting app used by friends and family.
+
+ACADEMIC BACKGROUND
+B.E. in Information Technology, Mumbai University, 2021

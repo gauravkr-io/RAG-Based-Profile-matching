@@ -1,0 +1,7 @@
+Title: Frontend Developer (React)
+Must have: React, TypeScript
+Nice to have: Next.js, Jest, CSS, GraphQL
+Minimum experience: 2 years
+
+About the role:
+Build the customer-facing web app used by millions of shoppers. You will turn designs into fast, accessible screens, write component tests and improve page load performance.

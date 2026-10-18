@@ -1,0 +1,245 @@
+{
+  "dataset": {
+    "resumes": 36,
+    "chunks": 166,
+    "job_descriptions": 6
+  },
+  "extraction_accuracy": {
+    "name": 1.0,
+    "skills": 1.0,
+    "experience_years": 1.0,
+    "education": 1.0
+  },
+  "filter": [
+    {
+      "job": "jd_01_python_backend",
+      "kept": 3,
+      "qualified": 3,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "job": "jd_02_ml_engineer",
+      "kept": 4,
+      "qualified": 4,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "job": "jd_03_frontend",
+      "kept": 4,
+      "qualified": 4,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "job": "jd_04_devops",
+      "kept": 3,
+      "qualified": 3,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "job": "jd_05_data_engineer",
+      "kept": 4,
+      "qualified": 4,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "job": "jd_06_java_backend",
+      "kept": 3,
+      "qualified": 3,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  ],
+  "retrieval": {
+    "semantic": {
+      "per_job": [
+        {
+          "job": "jd_01_python_backend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.5
+        },
+        {
+          "job": "jd_02_ml_engineer",
+          "precision_at_5": 0.8,
+          "recall_at_10": 1.0,
+          "mrr": 0.5
+        },
+        {
+          "job": "jd_03_frontend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.167
+        },
+        {
+          "job": "jd_04_devops",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.25
+        },
+        {
+          "job": "jd_05_data_engineer",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 1.0
+        },
+        {
+          "job": "jd_06_java_backend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.5
+        }
+      ],
+      "precision_at_5": 0.967,
+      "recall_at_10": 1.0,
+      "mrr": 0.486
+    },
+    "keyword": {
+      "per_job": [
+        {
+          "job": "jd_01_python_backend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 1.0
+        },
+        {
+          "job": "jd_02_ml_engineer",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.5
+        },
+        {
+          "job": "jd_03_frontend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.5
+        },
+        {
+          "job": "jd_04_devops",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 1.0
+        },
+        {
+          "job": "jd_05_data_engineer",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 1.0
+        },
+        {
+          "job": "jd_06_java_backend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.5
+        }
+      ],
+      "precision_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.75
+    },
+    "hybrid": {
+      "per_job": [
+        {
+          "job": "jd_01_python_backend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 1.0
+        },
+        {
+          "job": "jd_02_ml_engineer",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.5
+        },
+        {
+          "job": "jd_03_frontend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.25
+        },
+        {
+          "job": "jd_04_devops",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.5
+        },
+        {
+          "job": "jd_05_data_engineer",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 1.0
+        },
+        {
+          "job": "jd_06_java_backend",
+          "precision_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "mrr": 0.333
+        }
+      ],
+      "precision_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.597
+    }
+  },
+  "pipeline": [
+    {
+      "job": "jd_01_python_backend",
+      "returned": 3,
+      "top_candidate": "Vikram Menon",
+      "top_score": 96,
+      "top_is_strong_match": true
+    },
+    {
+      "job": "jd_02_ml_engineer",
+      "returned": 4,
+      "top_candidate": "Kavya Joshi",
+      "top_score": 84,
+      "top_is_strong_match": true
+    },
+    {
+      "job": "jd_03_frontend",
+      "returned": 4,
+      "top_candidate": "Rahul Kapoor",
+      "top_score": 89,
+      "top_is_strong_match": true
+    },
+    {
+      "job": "jd_04_devops",
+      "returned": 3,
+      "top_candidate": "Lakshmi Murthy",
+      "top_score": 98,
+      "top_is_strong_match": true
+    },
+    {
+      "job": "jd_05_data_engineer",
+      "returned": 4,
+      "top_candidate": "Joseph Thomas",
+      "top_score": 91,
+      "top_is_strong_match": true
+    },
+    {
+      "job": "jd_06_java_backend",
+      "returned": 3,
+      "top_candidate": "Farhan Qureshi",
+      "top_score": 95,
+      "top_is_strong_match": true
+    }
+  ],
+  "top1_strong_rate": 1.0,
+  "latency": {
+    "searches": 30,
+    "mean_ms": 6.3,
+    "p95_ms": 7.1,
+    "max_ms": 7.2
+  },
+  "ingestion": {
+    "resumes": 36,
+    "chunks": 166,
+    "embedding_seconds": 0.68,
+    "total_ingestion_seconds": 6.45
+  }
+}

@@ -1,0 +1,7 @@
+Title: DevOps Engineer
+Must have: Kubernetes, Terraform
+Nice to have: AWS, CI/CD, Prometheus, Python
+Minimum experience: 4 years
+
+About the role:
+Own our cloud infrastructure end to end. You will manage container platforms, write infrastructure as code, improve release pipelines and keep production reliable with good monitoring.

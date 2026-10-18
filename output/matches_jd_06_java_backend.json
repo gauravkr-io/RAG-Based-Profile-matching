@@ -1,0 +1,56 @@
+{
+  "job_description": "Title: Java Backend Engineer\nMust have: Java, Spring Boot\nNice to have: Kafka, Microservices, MySQL, Docker\nMinimum experience: 5 years\n\nAbout the role:\nBuild high-volume payment and order services. You will design microservices, work with event streaming and relational databases, and keep services fast and reliable under load.",
+  "top_matches": [
+    {
+      "candidate_name": "Farhan Qureshi",
+      "resume_path": "data/resumes/farhan_qureshi.docx",
+      "match_score": 95,
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "Kafka",
+        "Microservices"
+      ],
+      "relevant_excerpts": [
+        "[skills] Java, Spring Boot, Microservices, Kubernetes, Redis, MySQL, Kafka",
+        "[summary] Java developer with 8 years of experience building backend microservices."
+      ],
+      "reasoning": "8 years of experience against the 5+ asked for. Has every must-have skill (Java, Spring Boot). Covers 3 of 4 nice-to-have skills (MySQL, Kafka, Microservices), without Docker. Sections that matched the job: skills, summary, experience. Closest section similarity 0.647."
+    },
+    {
+      "candidate_name": "Suresh Naidu",
+      "resume_path": "data/resumes/suresh_naidu.txt",
+      "match_score": 89,
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "Kafka",
+        "Microservices"
+      ],
+      "relevant_excerpts": [
+        "[skills] Java, Spring Boot, Microservices, AWS, Kafka, MySQL",
+        "[summary] Java developer with 5 years of experience building backend microservices."
+      ],
+      "reasoning": "5 years of experience against the 5+ asked for. Has every must-have skill (Java, Spring Boot). Covers 3 of 4 nice-to-have skills (MySQL, Kafka, Microservices), without Docker. Sections that matched the job: skills, summary, experience. Closest section similarity 0.659."
+    },
+    {
+      "candidate_name": "Nandini Hegde",
+      "resume_path": "data/resumes/nandini_hegde.txt",
+      "match_score": 87,
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "Docker",
+        "Microservices"
+      ],
+      "relevant_excerpts": [
+        "[skills] Java, Spring Boot, Microservices, Hibernate, Kafka, Docker",
+        "[experience] Senior Java Engineer, BluePeak Digital (2024 - present) - Split a monolith into microservices with clear API contracts. - Built Spring Boot payment services handling 50,000 transactions a day. Senior Java Engineer, Orbit Retail (2015 - 2024) - Added Kafka event streaming for order status updates."
+      ],
+      "reasoning": "11 years of experience against the 5+ asked for. Has every must-have skill (Java, Spring Boot). Covers 3 of 4 nice-to-have skills (Kafka, Docker, Microservices), without MySQL. Sections that matched the job: skills, experience, summary, certifications. Closest section similarity 0.562."
+    }
+  ]
+}

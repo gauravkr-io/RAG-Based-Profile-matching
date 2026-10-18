@@ -1,0 +1,22 @@
+Simran Kaur
+simran.kaur@example.com | Kolkata, India
+
+PROFESSIONAL SUMMARY
+Data engineer with 11 years of experience building reliable batch and streaming pipelines.
+
+TECHNICAL SKILLS
+Spark, SQL, Python, Hadoop, Scala, Airflow, Snowflake
+
+EXPERIENCE
+Data Engineer, BluePeak Digital (2018 - present)
+- Built Spark jobs that process 5 TB of clickstream data every day.
+- Scheduled and monitored pipelines with Airflow.
+
+Data Engineer, Brightline Tech (2016 - 2018)
+- Rewrote slow SQL reports, bringing runtime down from hours to minutes.
+
+Big Data Engineer, Nimbus Analytics (2015 - 2016)
+- Reviewed pull requests and mentored two junior engineers.
+
+EDUCATION
+B.Sc. in Mathematics, Delhi Technological University, 2015

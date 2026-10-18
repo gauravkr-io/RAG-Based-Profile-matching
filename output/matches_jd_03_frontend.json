@@ -1,0 +1,66 @@
+{
+  "job_description": "Title: Frontend Developer (React)\nMust have: React, TypeScript\nNice to have: Next.js, Jest, CSS, GraphQL\nMinimum experience: 2 years\n\nAbout the role:\nBuild the customer-facing web app used by millions of shoppers. You will turn designs into fast, accessible screens, write component tests and improve page load performance.",
+  "top_matches": [
+    {
+      "candidate_name": "Rahul Kapoor",
+      "resume_path": "data/resumes/rahul_kapoor.txt",
+      "match_score": 89,
+      "matched_skills": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "Jest"
+      ],
+      "relevant_excerpts": [
+        "[experience] Frontend Engineer, Arcadia Payments (2024 - present) - Rebuilt the checkout flow in React and TypeScript, cutting load time by 40 percent. - Introduced component tests with Jest and raised coverage to 85 percent. Frontend Engineer, VisionStack (2022 - 2024) - Moved the marketing site to Next.js w...",
+        "[skills] React, TypeScript, JS, Next.js, Jest"
+      ],
+      "reasoning": "5 years of experience against the 2+ asked for. Has every must-have skill (React, TypeScript). Covers 2 of 4 nice-to-have skills (Next.js, Jest), without CSS, GraphQL. Sections that matched the job: experience, skills, summary, projects. Closest section similarity 0.63."
+    },
+    {
+      "candidate_name": "Neha Chopra",
+      "resume_path": "data/resumes/neha_chopra.txt",
+      "match_score": 87,
+      "matched_skills": [
+        "React",
+        "TypeScript",
+        "Next.js"
+      ],
+      "relevant_excerpts": [
+        "[experience] Frontend Engineer, Pixelcraft Studios (2024 - present) - Moved the marketing site to Next.js with server-side rendering. - Rebuilt the checkout flow in React and TypeScript, cutting load time by 40 percent. Frontend Engineer, CloudHarbor (2015 - 2024) - Wrote technical design documents and ran kn...",
+        "[skills] React, TypeScript, JS, Next.js, Figma"
+      ],
+      "reasoning": "11 years of experience against the 2+ asked for. Has every must-have skill (React, TypeScript). Covers 1 of 4 nice-to-have skills (Next.js), without CSS, Jest, GraphQL. Sections that matched the job: experience, skills, summary. Closest section similarity 0.652."
+    },
+    {
+      "candidate_name": "Ishita Pillai",
+      "resume_path": "data/resumes/ishita_pillai.docx",
+      "match_score": 85,
+      "matched_skills": [
+        "React",
+        "TypeScript",
+        "Jest"
+      ],
+      "relevant_excerpts": [
+        "[experience] Senior Frontend Developer, Lumen EdTech (2025 - present) - Rebuilt the checkout flow in React and TypeScript, cutting load time by 40 percent. - Introduced component tests with Jest and raised coverage to 85 percent. Frontend Engineer, DataWeave Labs (2024 - 2025) - Reviewed pull requests and men...",
+        "[skills] React, TypeScript, JavaScript, Figma, Jest"
+      ],
+      "reasoning": "3 years of experience against the 2+ asked for. Has every must-have skill (React, TypeScript). Covers 1 of 4 nice-to-have skills (Jest), without Next.js, CSS, GraphQL. Sections that matched the job: experience, skills, summary. Closest section similarity 0.635."
+    },
+    {
+      "candidate_name": "Aditya Singh",
+      "resume_path": "data/resumes/aditya_singh.docx",
+      "match_score": 85,
+      "matched_skills": [
+        "React",
+        "TypeScript",
+        "CSS"
+      ],
+      "relevant_excerpts": [
+        "[skills] React, TypeScript, JavaScript, Figma, CSS",
+        "[experience] Frontend Engineer, Orbit Retail (2020 - present) - Rebuilt the checkout flow in React and TypeScript, cutting load time by 40 percent. - Turned Figma designs into responsive pages with modern CSS. Senior Frontend Developer, Nimbus Analytics (2018 - 2020) - Worked with product managers to plan qua..."
+      ],
+      "reasoning": "8 years of experience against the 2+ asked for. Has every must-have skill (React, TypeScript). Covers 1 of 4 nice-to-have skills (CSS), without Next.js, Jest, GraphQL. Sections that matched the job: skills, experience, summary, projects. Closest section similarity 0.632."
+    }
+  ]
+}

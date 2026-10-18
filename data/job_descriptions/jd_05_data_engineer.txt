@@ -1,0 +1,7 @@
+Title: Data Engineer
+Must have: Spark, SQL
+Nice to have: Kafka, Airflow, Snowflake, dbt
+Minimum experience: 3 years
+
+About the role:
+Design and run the data pipelines that feed our analytics and reporting. You will process large event streams, schedule batch jobs and model warehouse tables for analysts.

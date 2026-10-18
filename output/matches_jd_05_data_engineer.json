@@ -1,0 +1,70 @@
+{
+  "job_description": "Title: Data Engineer\nMust have: Spark, SQL\nNice to have: Kafka, Airflow, Snowflake, dbt\nMinimum experience: 3 years\n\nAbout the role:\nDesign and run the data pipelines that feed our analytics and reporting. You will process large event streams, schedule batch jobs and model warehouse tables for analysts.",
+  "top_matches": [
+    {
+      "candidate_name": "Joseph Thomas",
+      "resume_path": "data/resumes/joseph_thomas.txt",
+      "match_score": 91,
+      "matched_skills": [
+        "SQL",
+        "Spark",
+        "Kafka",
+        "Snowflake"
+      ],
+      "relevant_excerpts": [
+        "[experience] Analytics Engineer, Lumen EdTech (2024 - present) - Rewrote slow SQL reports, bringing runtime down from hours to minutes. - Built Spark jobs that process 5 TB of clickstream data every day. Data Engineer, Cobalt Logistics (2021 - 2024) - Streamed order events through Kafka into the data warehouse.",
+        "[skills] Spark, SQL, Python, Scala, Kafka, Snowflake"
+      ],
+      "reasoning": "5 years of experience against the 3+ asked for. Has every must-have skill (SQL, Spark). Covers 2 of 4 nice-to-have skills (Kafka, Snowflake), without Airflow, dbt. Sections that matched the job: experience, skills, summary, certifications. Closest section similarity 0.693."
+    },
+    {
+      "candidate_name": "Gurpreet Gill",
+      "resume_path": "data/resumes/gurpreet_gill.docx",
+      "match_score": 91,
+      "matched_skills": [
+        "SQL",
+        "Spark",
+        "Airflow",
+        "Snowflake",
+        "dbt"
+      ],
+      "relevant_excerpts": [
+        "[experience] Big Data Engineer, BluePeak Digital (2022 - present) - Built Spark jobs that process 5 TB of clickstream data every day. - Scheduled and monitored pipelines with Airflow. Analytics Engineer, Quanta Labs (2018 - 2022) - Modelled analytics tables in Snowflake using dbt. - Rewrote slow SQL reports, ...",
+        "[skills] Spark, SQL, Python, dbt, Airflow, Scala, Snowflake"
+      ],
+      "reasoning": "8 years of experience against the 3+ asked for. Has every must-have skill (SQL, Spark). Covers 3 of 4 nice-to-have skills (Airflow, Snowflake, dbt), without Kafka. Sections that matched the job: experience, skills, summary. Closest section similarity 0.603."
+    },
+    {
+      "candidate_name": "Simran Kaur",
+      "resume_path": "data/resumes/simran_kaur.txt",
+      "match_score": 88,
+      "matched_skills": [
+        "SQL",
+        "Spark",
+        "Airflow",
+        "Snowflake"
+      ],
+      "relevant_excerpts": [
+        "[experience] Data Engineer, BluePeak Digital (2018 - present) - Built Spark jobs that process 5 TB of clickstream data every day. - Scheduled and monitored pipelines with Airflow. Data Engineer, Brightline Tech (2016 - 2018) - Rewrote slow SQL reports, bringing runtime down from hours to minutes. Big Data Eng...",
+        "[skills] Spark, SQL, Python, Hadoop, Scala, Airflow, Snowflake"
+      ],
+      "reasoning": "11 years of experience against the 3+ asked for. Has every must-have skill (SQL, Spark). Covers 2 of 4 nice-to-have skills (Airflow, Snowflake), without Kafka, dbt. Sections that matched the job: experience, skills, summary. Closest section similarity 0.623."
+    },
+    {
+      "candidate_name": "Fatima Sheikh",
+      "resume_path": "data/resumes/fatima_sheikh.docx",
+      "match_score": 85,
+      "matched_skills": [
+        "SQL",
+        "Spark",
+        "Airflow",
+        "Snowflake"
+      ],
+      "relevant_excerpts": [
+        "[experience] Big Data Engineer, Arcadia Payments (2025 - present) - Scheduled and monitored pipelines with Airflow. - Built Spark jobs that process 5 TB of clickstream data every day. Data Engineer, Nimbus Analytics (2024 - 2025) - Rewrote slow SQL reports, bringing runtime down from hours to minutes. Big Dat...",
+        "[skills] Spark, SQL, Python, Scala, AWS, Snowflake, Airflow"
+      ],
+      "reasoning": "3 years of experience against the 3+ asked for. Has every must-have skill (SQL, Spark). Covers 2 of 4 nice-to-have skills (Airflow, Snowflake), without Kafka, dbt. Sections that matched the job: experience, skills, summary, certifications. Closest section similarity 0.682."
+    }
+  ]
+}

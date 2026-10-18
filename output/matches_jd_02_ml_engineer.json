@@ -1,0 +1,66 @@
+{
+  "job_description": "Title: Machine Learning Engineer\nMust have: Python, PyTorch\nNice to have: MLOps, NLP, Docker, TensorFlow\nMinimum experience: 3 years\n\nAbout the role:\nJoin our applied AI team to train, deploy and monitor models in production. You will work on recommendation and text classification problems and build the pipelines that retrain models automatically.",
+  "top_matches": [
+    {
+      "candidate_name": "Kavya Joshi",
+      "resume_path": "data/resumes/kavya_joshi.txt",
+      "match_score": 84,
+      "matched_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "NLP"
+      ],
+      "relevant_excerpts": [
+        "[skills] Python, PyTorch, ML, TensorFlow, FastAPI, scikit-learn, NLP",
+        "[summary] Machine learning engineer with 11 years of experience taking models from notebook to production."
+      ],
+      "reasoning": "11 years of experience against the 3+ asked for. Has every must-have skill (Python, PyTorch). Covers 2 of 4 nice-to-have skills (TensorFlow, NLP), without Docker, MLOps. Sections that matched the job: skills, summary, experience, projects. Closest section similarity 0.576."
+    },
+    {
+      "candidate_name": "Sneha Gupta",
+      "resume_path": "data/resumes/sneha_gupta.docx",
+      "match_score": 76,
+      "matched_skills": [
+        "Python",
+        "PyTorch",
+        "Docker",
+        "TensorFlow"
+      ],
+      "relevant_excerpts": [
+        "[skills] Python, PyTorch, ML, scikit-learn, Docker, TensorFlow, FastAPI",
+        "[experience] Data Scientist, Cobalt Logistics (2025 - present) - Trained PyTorch models for product image classification with 94 percent accuracy. - Served models behind FastAPI endpoints with sub-100 ms latency. Machine Learning Engineer, Pixelcraft Studios (2024 - 2025) - Wrote technical design documents an..."
+      ],
+      "reasoning": "3 years of experience against the 3+ asked for. Has every must-have skill (Python, PyTorch). Covers 2 of 4 nice-to-have skills (Docker, TensorFlow), without MLOps, NLP. Sections that matched the job: skills, experience, summary. Closest section similarity 0.561."
+    },
+    {
+      "candidate_name": "Arjun Rao",
+      "resume_path": "data/resumes/arjun_rao.txt",
+      "match_score": 67,
+      "matched_skills": [
+        "Python",
+        "PyTorch",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "[summary] Machine learning engineer with 5 years of experience taking models from notebook to production.",
+        "[skills] Python, PyTorch, ML, Pandas, FastAPI, Docker"
+      ],
+      "reasoning": "5 years of experience against the 3+ asked for. Has every must-have skill (Python, PyTorch). Covers 1 of 4 nice-to-have skills (Docker), without TensorFlow, MLOps, NLP. Sections that matched the job: summary, skills, experience, education, projects. Closest section similarity 0.455."
+    },
+    {
+      "candidate_name": "Siddharth Bose",
+      "resume_path": "data/resumes/siddharth_bose.docx",
+      "match_score": 61,
+      "matched_skills": [
+        "Python",
+        "PyTorch"
+      ],
+      "relevant_excerpts": [
+        "[experience] Applied Scientist, VisionStack (2020 - present) - Served models behind FastAPI endpoints with sub-100 ms latency. - Trained PyTorch models for product image classification with 94 percent accuracy. Data Scientist, Quanta Labs (2019 - 2020) - Reviewed pull requests and mentored two junior engineer...",
+        "[skills] Python, PyTorch, ML, FastAPI, Pandas"
+      ],
+      "reasoning": "8 years of experience against the 3+ asked for. Has every must-have skill (Python, PyTorch). Covers 0 of 4 nice-to-have skills, without Docker, TensorFlow, MLOps, NLP. Sections that matched the job: experience, skills, summary. Closest section similarity 0.434."
+    }
+  ]
+}

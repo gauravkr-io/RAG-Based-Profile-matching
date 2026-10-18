@@ -1,0 +1,22 @@
+Nandini Hegde
+nandini.hegde@example.com | Mumbai, India
+
+SUMMARY
+Java developer with 11 years of experience building backend microservices.
+
+SKILLS
+Java, Spring Boot, Microservices, Hibernate, Kafka, Docker
+
+EXPERIENCE
+Senior Java Engineer, BluePeak Digital (2024 - present)
+- Split a monolith into microservices with clear API contracts.
+- Built Spring Boot payment services handling 50,000 transactions a day.
+
+Senior Java Engineer, Orbit Retail (2015 - 2024)
+- Added Kafka event streaming for order status updates.
+
+EDUCATION
+B.Sc. in Mathematics, Anna University, 2015
+
+CERTIFICATIONS
+Oracle Certified Java Programmer

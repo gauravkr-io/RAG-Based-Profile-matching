@@ -1,0 +1,22 @@
+Suresh Naidu
+suresh.naidu@example.com | Kochi, India
+
+SUMMARY
+Java developer with 5 years of experience building backend microservices.
+
+SKILLS
+Java, Spring Boot, Microservices, AWS, Kafka, MySQL
+
+WORK EXPERIENCE
+Senior Java Engineer, Lumen EdTech (2023 - present)
+- Split a monolith into microservices with clear API contracts.
+- Built Spring Boot payment services handling 50,000 transactions a day.
+
+Senior Java Engineer, CloudHarbor (2022 - 2023)
+- Added Kafka event streaming for order status updates.
+
+Java Developer, Nimbus Analytics (2021 - 2022)
+- Reviewed pull requests and mentored two junior engineers.
+
+ACADEMIC BACKGROUND
+MCA, VIT Vellore, 2021

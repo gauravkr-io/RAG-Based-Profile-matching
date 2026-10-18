@@ -1,0 +1,7 @@
+Title: Java Backend Engineer
+Must have: Java, Spring Boot
+Nice to have: Kafka, Microservices, MySQL, Docker
+Minimum experience: 5 years
+
+About the role:
+Build high-volume payment and order services. You will design microservices, work with event streaming and relational databases, and keep services fast and reliable under load.

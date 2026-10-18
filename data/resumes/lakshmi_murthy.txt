@@ -1,0 +1,26 @@
+Lakshmi Murthy
+lakshmi.murthy@example.com | Kochi, India
+
+SUMMARY
+DevOps engineer with 11 years of experience running cloud infrastructure at scale.
+
+SKILLS
+Kubernetes, Terraform, AWS, Python, CI/CD, Prometheus, Bash
+
+PROFESSIONAL EXPERIENCE
+Site Reliability Engineer, Lumen EdTech (2022 - present)
+- Set up Prometheus alerts that reduced on-call incidents by a third.
+- Wrote Terraform modules that provision AWS environments in minutes.
+
+Site Reliability Engineer, FinEdge Systems (2021 - 2022)
+- Automated cost reports across AWS accounts with Python scripts.
+- Built CI/CD pipelines that cut release time from days to hours.
+
+Cloud Engineer, Pixelcraft Studios (2015 - 2021)
+- Ran Kubernetes clusters hosting more than 200 microservices.
+
+ACADEMIC BACKGROUND
+B.Tech in Computer Science, VIT Vellore, 2015
+
+CERTIFICATIONS
+Oracle Certified Java Programmer

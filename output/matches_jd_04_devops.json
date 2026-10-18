@@ -1,0 +1,53 @@
+{
+  "job_description": "Title: DevOps Engineer\nMust have: Kubernetes, Terraform\nNice to have: AWS, CI/CD, Prometheus, Python\nMinimum experience: 4 years\n\nAbout the role:\nOwn our cloud infrastructure end to end. You will manage container platforms, write infrastructure as code, improve release pipelines and keep production reliable with good monitoring.",
+  "top_matches": [
+    {
+      "candidate_name": "Lakshmi Murthy",
+      "resume_path": "data/resumes/lakshmi_murthy.txt",
+      "match_score": 98,
+      "matched_skills": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "AWS",
+        "CI/CD",
+        "Prometheus"
+      ],
+      "relevant_excerpts": [
+        "[experience] Site Reliability Engineer, Lumen EdTech (2022 - present) - Set up Prometheus alerts that reduced on-call incidents by a third. - Wrote Terraform modules that provision AWS environments in minutes. Site Reliability Engineer, FinEdge Systems (2021 - 2022) - Automated cost reports across AWS account...",
+        "[skills] Kubernetes, Terraform, AWS, Python, CI/CD, Prometheus, Bash"
+      ],
+      "reasoning": "11 years of experience against the 4+ asked for. Has every must-have skill (Kubernetes, Terraform). Covers 4 of 4 nice-to-have skills (Python, AWS, CI/CD, Prometheus). Sections that matched the job: experience, skills, summary. Closest section similarity 0.626."
+    },
+    {
+      "candidate_name": "Harish Krishnan",
+      "resume_path": "data/resumes/harish_krishnan.docx",
+      "match_score": 87,
+      "matched_skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS"
+      ],
+      "relevant_excerpts": [
+        "[experience] Site Reliability Engineer, Helix Health Tech (2025 - present) - Ran Kubernetes clusters hosting more than 200 microservices. - Wrote Terraform modules that provision AWS environments in minutes. DevOps Engineer, CloudHarbor (2018 - 2025) - Reviewed pull requests and mentored two junior engineers.",
+        "[summary] DevOps engineer with 8 years of experience running cloud infrastructure at scale."
+      ],
+      "reasoning": "8 years of experience against the 4+ asked for. Has every must-have skill (Kubernetes, Terraform). Covers 1 of 4 nice-to-have skills (AWS), without Python, CI/CD, Prometheus. Sections that matched the job: experience, summary, skills, projects. Closest section similarity 0.675."
+    },
+    {
+      "candidate_name": "Varun Malhotra",
+      "resume_path": "data/resumes/varun_malhotra.txt",
+      "match_score": 79,
+      "matched_skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS"
+      ],
+      "relevant_excerpts": [
+        "[experience] Cloud Engineer, CloudHarbor (2023 - present) - Wrote Terraform modules that provision AWS environments in minutes. - Ran Kubernetes clusters hosting more than 200 microservices. DevOps Engineer, Pixelcraft Studios (2021 - 2023) - Wrote technical design documents and ran knowledge-sharing sessions.",
+        "[summary] DevOps engineer with 5 years of experience running cloud infrastructure at scale."
+      ],
+      "reasoning": "5 years of experience against the 4+ asked for. Has every must-have skill (Kubernetes, Terraform). Covers 1 of 4 nice-to-have skills (AWS), without Python, CI/CD, Prometheus. Sections that matched the job: experience, summary, skills. Closest section similarity 0.609."
+    }
+  ]
+}

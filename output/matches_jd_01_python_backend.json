@@ -1,0 +1,54 @@
+{
+  "job_description": "Title: Senior Python Backend Engineer\nMust have: Python, Django\nNice to have: PostgreSQL, Docker, AWS, Celery\nMinimum experience: 5 years\n\nAbout the role:\nWe are looking for a backend engineer to build and scale the APIs behind our e-commerce platform. You will design database schemas, write Django services, own background job processing and help us move more workloads to the cloud.",
+  "top_matches": [
+    {
+      "candidate_name": "Vikram Menon",
+      "resume_path": "data/resumes/vikram_menon.docx",
+      "match_score": 96,
+      "matched_skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Celery",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "[skills] Python, Django, PostgreSQL, Celery, Docker, Kafka",
+        "[summary] Backend engineer with 8 years of experience building APIs and data services in Python."
+      ],
+      "reasoning": "8 years of experience against the 5+ asked for. Has every must-have skill (Python, Django). Covers 3 of 4 nice-to-have skills (PostgreSQL, Celery, Docker), without AWS. Sections that matched the job: skills, summary, experience, projects. Closest section similarity 0.665."
+    },
+    {
+      "candidate_name": "Rohan Reddy",
+      "resume_path": "data/resumes/rohan_reddy.txt",
+      "match_score": 85,
+      "matched_skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Celery"
+      ],
+      "relevant_excerpts": [
+        "[summary] Backend engineer with 5 years of experience building APIs and data services in Python.",
+        "[skills] Python, Django, Postgres, FastAPI, Celery"
+      ],
+      "reasoning": "5 years of experience against the 5+ asked for. Has every must-have skill (Python, Django). Covers 2 of 4 nice-to-have skills (PostgreSQL, Celery), without Docker, AWS. Sections that matched the job: summary, skills, experience, projects. Closest section similarity 0.662."
+    },
+    {
+      "candidate_name": "Meera Kulkarni",
+      "resume_path": "data/resumes/meera_kulkarni.txt",
+      "match_score": 85,
+      "matched_skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "relevant_excerpts": [
+        "[skills] Python, Django, PostgreSQL, AWS, Redis, Kafka",
+        "[experience] Python Developer, FinEdge Systems (2017 - present) - Designed PostgreSQL schemas and cut slow query time by 60 percent. - Wrote Python services that consume events from Kafka topics. Senior Software Engineer, BluePeak Digital (2015 - 2017) - Worked with product managers to plan quarterly releases."
+      ],
+      "reasoning": "11 years of experience against the 5+ asked for. Has every must-have skill (Python, Django). Covers 2 of 4 nice-to-have skills (PostgreSQL, AWS), without Celery, Docker. Sections that matched the job: skills, experience, summary. Closest section similarity 0.583."
+    }
+  ]
+}

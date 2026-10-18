@@ -1,0 +1,612 @@
+{
+  "generated_in_year": 2026,
+  "jobs": {
+    "jd_01_python_backend": {
+      "qualified": [
+        "data/resumes/rohan_reddy.txt",
+        "data/resumes/vikram_menon.docx",
+        "data/resumes/meera_kulkarni.txt"
+      ],
+      "strong": [
+        "data/resumes/rohan_reddy.txt",
+        "data/resumes/vikram_menon.docx",
+        "data/resumes/meera_kulkarni.txt"
+      ]
+    },
+    "jd_02_ml_engineer": {
+      "qualified": [
+        "data/resumes/sneha_gupta.docx",
+        "data/resumes/arjun_rao.txt",
+        "data/resumes/siddharth_bose.docx",
+        "data/resumes/kavya_joshi.txt"
+      ],
+      "strong": [
+        "data/resumes/sneha_gupta.docx",
+        "data/resumes/kavya_joshi.txt"
+      ]
+    },
+    "jd_03_frontend": {
+      "qualified": [
+        "data/resumes/ishita_pillai.docx",
+        "data/resumes/rahul_kapoor.txt",
+        "data/resumes/aditya_singh.docx",
+        "data/resumes/neha_chopra.txt"
+      ],
+      "strong": [
+        "data/resumes/rahul_kapoor.txt"
+      ]
+    },
+    "jd_04_devops": {
+      "qualified": [
+        "data/resumes/varun_malhotra.txt",
+        "data/resumes/harish_krishnan.docx",
+        "data/resumes/lakshmi_murthy.txt"
+      ],
+      "strong": [
+        "data/resumes/lakshmi_murthy.txt"
+      ]
+    },
+    "jd_05_data_engineer": {
+      "qualified": [
+        "data/resumes/fatima_sheikh.docx",
+        "data/resumes/joseph_thomas.txt",
+        "data/resumes/gurpreet_gill.docx",
+        "data/resumes/simran_kaur.txt"
+      ],
+      "strong": [
+        "data/resumes/fatima_sheikh.docx",
+        "data/resumes/joseph_thomas.txt",
+        "data/resumes/gurpreet_gill.docx",
+        "data/resumes/simran_kaur.txt"
+      ]
+    },
+    "jd_06_java_backend": {
+      "qualified": [
+        "data/resumes/suresh_naidu.txt",
+        "data/resumes/farhan_qureshi.docx",
+        "data/resumes/nandini_hegde.txt"
+      ],
+      "strong": [
+        "data/resumes/suresh_naidu.txt",
+        "data/resumes/farhan_qureshi.docx",
+        "data/resumes/nandini_hegde.txt"
+      ]
+    }
+  },
+  "candidates": [
+    {
+      "resume_path": "data/resumes/aarav_sharma.pdf",
+      "name": "Aarav Sharma",
+      "family": "python_backend",
+      "experience_years": 1,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "AWS",
+        "Redis",
+        "REST APIs"
+      ],
+      "education": "B.Tech in Computer Science, Osmania University, 2025"
+    },
+    {
+      "resume_path": "data/resumes/diya_iyer.docx",
+      "name": "Diya Iyer",
+      "family": "python_backend",
+      "experience_years": 3,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker",
+        "Redis"
+      ],
+      "education": "MCA, Osmania University, 2023"
+    },
+    {
+      "resume_path": "data/resumes/rohan_reddy.txt",
+      "name": "Rohan Reddy",
+      "family": "python_backend",
+      "experience_years": 5,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "FastAPI",
+        "Celery"
+      ],
+      "education": "M.Tech in Computer Science, University of Hyderabad, 2021"
+    },
+    {
+      "resume_path": "data/resumes/ananya_nair.pdf",
+      "name": "Ananya Nair",
+      "family": "python_backend",
+      "experience_years": 6,
+      "skills": [
+        "Python",
+        "PostgreSQL",
+        "REST APIs",
+        "FastAPI"
+      ],
+      "education": "MCA, VIT Vellore, 2020"
+    },
+    {
+      "resume_path": "data/resumes/vikram_menon.docx",
+      "name": "Vikram Menon",
+      "family": "python_backend",
+      "experience_years": 8,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Celery",
+        "Docker",
+        "Kafka"
+      ],
+      "education": "M.Tech in Computer Science, Anna University, 2018"
+    },
+    {
+      "resume_path": "data/resumes/meera_kulkarni.txt",
+      "name": "Meera Kulkarni",
+      "family": "python_backend",
+      "experience_years": 11,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "AWS",
+        "Redis",
+        "Kafka"
+      ],
+      "education": "B.Sc. in Mathematics, Anna University, 2015"
+    },
+    {
+      "resume_path": "data/resumes/karthik_patel.pdf",
+      "name": "Karthik Patel",
+      "family": "ml_engineer",
+      "experience_years": 1,
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Machine Learning",
+        "scikit-learn",
+        "TensorFlow",
+        "Pandas",
+        "MLOps"
+      ],
+      "education": "B.Sc. in Mathematics, Pune University, 2025"
+    },
+    {
+      "resume_path": "data/resumes/sneha_gupta.docx",
+      "name": "Sneha Gupta",
+      "family": "ml_engineer",
+      "experience_years": 3,
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Machine Learning",
+        "scikit-learn",
+        "Docker",
+        "TensorFlow",
+        "FastAPI"
+      ],
+      "education": "M.Tech in Computer Science, Manipal Institute of Technology, 2023"
+    },
+    {
+      "resume_path": "data/resumes/arjun_rao.txt",
+      "name": "Arjun Rao",
+      "family": "ml_engineer",
+      "experience_years": 5,
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Machine Learning",
+        "Pandas",
+        "FastAPI",
+        "Docker"
+      ],
+      "education": "B.Tech in Computer Science, Osmania University, 2021"
+    },
+    {
+      "resume_path": "data/resumes/pooja_das.pdf",
+      "name": "Pooja Das",
+      "family": "ml_engineer",
+      "experience_years": 6,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "NLP"
+      ],
+      "education": "B.Tech in Computer Science, IIIT Bangalore, 2020"
+    },
+    {
+      "resume_path": "data/resumes/siddharth_bose.docx",
+      "name": "Siddharth Bose",
+      "family": "ml_engineer",
+      "experience_years": 8,
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Machine Learning",
+        "FastAPI",
+        "Pandas"
+      ],
+      "education": "B.Tech in Computer Science, University of Hyderabad, 2018"
+    },
+    {
+      "resume_path": "data/resumes/kavya_joshi.txt",
+      "name": "Kavya Joshi",
+      "family": "ml_engineer",
+      "experience_years": 11,
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Machine Learning",
+        "TensorFlow",
+        "FastAPI",
+        "scikit-learn",
+        "NLP"
+      ],
+      "education": "B.Sc. in Mathematics, Anna University, 2015"
+    },
+    {
+      "resume_path": "data/resumes/nikhil_verma.pdf",
+      "name": "Nikhil Verma",
+      "family": "frontend",
+      "experience_years": 1,
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Jest",
+        "Redux",
+        "CSS",
+        "Next.js"
+      ],
+      "education": "MCA, IIIT Bangalore, 2025"
+    },
+    {
+      "resume_path": "data/resumes/ishita_pillai.docx",
+      "name": "Ishita Pillai",
+      "family": "frontend",
+      "experience_years": 3,
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Figma",
+        "Jest"
+      ],
+      "education": "B.Sc. in Mathematics, Mumbai University, 2023"
+    },
+    {
+      "resume_path": "data/resumes/rahul_kapoor.txt",
+      "name": "Rahul Kapoor",
+      "family": "frontend",
+      "experience_years": 5,
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Next.js",
+        "Jest"
+      ],
+      "education": "B.E. in Information Technology, Mumbai University, 2021"
+    },
+    {
+      "resume_path": "data/resumes/tanvi_mehta.pdf",
+      "name": "Tanvi Mehta",
+      "family": "frontend",
+      "experience_years": 6,
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "Next.js",
+        "Redux",
+        "Jest"
+      ],
+      "education": "M.Tech in Computer Science, Manipal Institute of Technology, 2020"
+    },
+    {
+      "resume_path": "data/resumes/aditya_singh.docx",
+      "name": "Aditya Singh",
+      "family": "frontend",
+      "experience_years": 8,
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Figma",
+        "CSS"
+      ],
+      "education": "MCA, VIT Vellore, 2018"
+    },
+    {
+      "resume_path": "data/resumes/neha_chopra.txt",
+      "name": "Neha Chopra",
+      "family": "frontend",
+      "experience_years": 11,
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Next.js",
+        "Figma"
+      ],
+      "education": "B.E. in Information Technology, IIIT Bangalore, 2015"
+    },
+    {
+      "resume_path": "data/resumes/manoj_desai.pdf",
+      "name": "Manoj Desai",
+      "family": "devops",
+      "experience_years": 1,
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "Ansible",
+        "Bash",
+        "CI/CD"
+      ],
+      "education": "MCA, Manipal Institute of Technology, 2025"
+    },
+    {
+      "resume_path": "data/resumes/ritika_banerjee.docx",
+      "name": "Ritika Banerjee",
+      "family": "devops",
+      "experience_years": 3,
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "Linux",
+        "Azure"
+      ],
+      "education": "B.Sc. in Mathematics, Anna University, 2023"
+    },
+    {
+      "resume_path": "data/resumes/varun_malhotra.txt",
+      "name": "Varun Malhotra",
+      "family": "devops",
+      "experience_years": 5,
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "Bash",
+        "Ansible",
+        "Docker",
+        "Azure"
+      ],
+      "education": "MCA, Anna University, 2021"
+    },
+    {
+      "resume_path": "data/resumes/shreya_saxena.pdf",
+      "name": "Shreya Saxena",
+      "family": "devops",
+      "experience_years": 6,
+      "skills": [
+        "Kubernetes",
+        "AWS",
+        "Python",
+        "Prometheus",
+        "Linux",
+        "Bash"
+      ],
+      "education": "B.Sc. in Mathematics, Anna University, 2020"
+    },
+    {
+      "resume_path": "data/resumes/harish_krishnan.docx",
+      "name": "Harish Krishnan",
+      "family": "devops",
+      "experience_years": 8,
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "Azure",
+        "Ansible"
+      ],
+      "education": "B.Sc. in Mathematics, Anna University, 2018"
+    },
+    {
+      "resume_path": "data/resumes/lakshmi_murthy.txt",
+      "name": "Lakshmi Murthy",
+      "family": "devops",
+      "experience_years": 11,
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "Python",
+        "CI/CD",
+        "Prometheus",
+        "Bash"
+      ],
+      "education": "B.Tech in Computer Science, VIT Vellore, 2015"
+    },
+    {
+      "resume_path": "data/resumes/imran_khan.pdf",
+      "name": "Imran Khan",
+      "family": "data_engineer",
+      "experience_years": 1,
+      "skills": [
+        "Spark",
+        "SQL",
+        "Python",
+        "Kafka",
+        "Airflow"
+      ],
+      "education": "B.E. in Information Technology, University of Hyderabad, 2025"
+    },
+    {
+      "resume_path": "data/resumes/fatima_sheikh.docx",
+      "name": "Fatima Sheikh",
+      "family": "data_engineer",
+      "experience_years": 3,
+      "skills": [
+        "Spark",
+        "SQL",
+        "Python",
+        "Scala",
+        "AWS",
+        "Snowflake",
+        "Airflow"
+      ],
+      "education": "B.Tech in Computer Science, Anna University, 2023"
+    },
+    {
+      "resume_path": "data/resumes/joseph_thomas.txt",
+      "name": "Joseph Thomas",
+      "family": "data_engineer",
+      "experience_years": 5,
+      "skills": [
+        "Spark",
+        "SQL",
+        "Python",
+        "Scala",
+        "Kafka",
+        "Snowflake"
+      ],
+      "education": "B.E. in Information Technology, University of Hyderabad, 2021"
+    },
+    {
+      "resume_path": "data/resumes/maria_fernandes.pdf",
+      "name": "Maria Fernandes",
+      "family": "data_engineer",
+      "experience_years": 6,
+      "skills": [
+        "Spark",
+        "Python",
+        "Hadoop",
+        "AWS",
+        "dbt"
+      ],
+      "education": "M.Tech in Computer Science, Delhi Technological University, 2020"
+    },
+    {
+      "resume_path": "data/resumes/gurpreet_gill.docx",
+      "name": "Gurpreet Gill",
+      "family": "data_engineer",
+      "experience_years": 8,
+      "skills": [
+        "Spark",
+        "SQL",
+        "Python",
+        "dbt",
+        "Airflow",
+        "Scala",
+        "Snowflake"
+      ],
+      "education": "MCA, Mumbai University, 2018"
+    },
+    {
+      "resume_path": "data/resumes/simran_kaur.txt",
+      "name": "Simran Kaur",
+      "family": "data_engineer",
+      "experience_years": 11,
+      "skills": [
+        "Spark",
+        "SQL",
+        "Python",
+        "Hadoop",
+        "Scala",
+        "Airflow",
+        "Snowflake"
+      ],
+      "education": "B.Sc. in Mathematics, Delhi Technological University, 2015"
+    },
+    {
+      "resume_path": "data/resumes/abhishek_mishra.pdf",
+      "name": "Abhishek Mishra",
+      "family": "java_backend",
+      "experience_years": 1,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Docker",
+        "MySQL"
+      ],
+      "education": "B.Tech in Computer Science, VIT Vellore, 2025"
+    },
+    {
+      "resume_path": "data/resumes/divya_agarwal.docx",
+      "name": "Divya Agarwal",
+      "family": "java_backend",
+      "experience_years": 3,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Hibernate",
+        "MySQL",
+        "Kafka",
+        "AWS"
+      ],
+      "education": "MCA, Mumbai University, 2023"
+    },
+    {
+      "resume_path": "data/resumes/suresh_naidu.txt",
+      "name": "Suresh Naidu",
+      "family": "java_backend",
+      "experience_years": 5,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "MySQL"
+      ],
+      "education": "MCA, VIT Vellore, 2021"
+    },
+    {
+      "resume_path": "data/resumes/anjali_bhat.pdf",
+      "name": "Anjali Bhat",
+      "family": "java_backend",
+      "experience_years": 6,
+      "skills": [
+        "Java",
+        "Microservices",
+        "Redis",
+        "Kubernetes",
+        "MySQL"
+      ],
+      "education": "MCA, Osmania University, 2020"
+    },
+    {
+      "resume_path": "data/resumes/farhan_qureshi.docx",
+      "name": "Farhan Qureshi",
+      "family": "java_backend",
+      "experience_years": 8,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Kubernetes",
+        "Redis",
+        "MySQL",
+        "Kafka"
+      ],
+      "education": "MCA, Pune University, 2018"
+    },
+    {
+      "resume_path": "data/resumes/nandini_hegde.txt",
+      "name": "Nandini Hegde",
+      "family": "java_backend",
+      "experience_years": 11,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Hibernate",
+        "Kafka",
+        "Docker"
+      ],
+      "education": "B.Sc. in Mathematics, Anna University, 2015"
+    }
+  ]
+}

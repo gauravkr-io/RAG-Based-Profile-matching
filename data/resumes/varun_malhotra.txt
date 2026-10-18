@@ -1,0 +1,19 @@
+Varun Malhotra
+varun.malhotra@example.com | Bengaluru, India
+
+PROFESSIONAL SUMMARY
+DevOps engineer with 5 years of experience running cloud infrastructure at scale.
+
+SKILLS
+K8s, Terraform, AWS, Bash, Ansible, Docker, Azure
+
+EXPERIENCE
+Cloud Engineer, CloudHarbor (2023 - present)
+- Wrote Terraform modules that provision AWS environments in minutes.
+- Ran Kubernetes clusters hosting more than 200 microservices.
+
+DevOps Engineer, Pixelcraft Studios (2021 - 2023)
+- Wrote technical design documents and ran knowledge-sharing sessions.
+
+ACADEMIC BACKGROUND
+MCA, Anna University, 2021

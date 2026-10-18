@@ -1,0 +1,26 @@
+Joseph Thomas
+joseph.thomas@example.com | Hyderabad, India
+
+PROFESSIONAL SUMMARY
+Data engineer with 5 years of experience building reliable batch and streaming pipelines.
+
+SKILLS
+Spark, SQL, Python, Scala, Kafka, Snowflake
+
+WORK EXPERIENCE
+Analytics Engineer, Lumen EdTech (2024 - present)
+- Rewrote slow SQL reports, bringing runtime down from hours to minutes.
+- Built Spark jobs that process 5 TB of clickstream data every day.
+
+Data Engineer, Cobalt Logistics (2021 - 2024)
+- Streamed order events through Kafka into the data warehouse.
+
+PROJECTS
+- Contributed bug fixes to an open-source Python library.
+- Built a personal budgeting app used by friends and family.
+
+ACADEMIC BACKGROUND
+B.E. in Information Technology, University of Hyderabad, 2021
+
+CERTIFICATIONS
+AWS Certified Developer - Associate
